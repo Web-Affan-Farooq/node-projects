@@ -1,0 +1,36 @@
+{
+  "name": "ma-number-guessing-game",
+  "version": "1.0.3",
+  "main": "dist/index.js",
+  "bin": "dist/index.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23",
+    "safe-buffer": "^5.2.1",
+    "safer-buffer": "^2.1.2",
+    "set-function-length": "^1.2.2",
+    "signal-exit": "^3.0.7",
+    "string_decoder": "^1.3.0",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.1",
+    "supports-color": "^7.2.0",
+    "tmp": "^0.0.33",
+    "tslib": "^2.6.2",
+    "type-fest": "^0.21.3",
+    "undici-types": "^5.26.5",
+    "util-deprecate": "^1.0.2",
+    "wcwidth": "^1.0.1",
+    "wrap-ansi": "^6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Affan 00223338",
+  "license": "ISC",
+  "description": "This is a simple command line application number guessing game ",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
