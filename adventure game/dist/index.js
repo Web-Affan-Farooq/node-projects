@@ -95,7 +95,7 @@ do {
                 }
                 break;
             case "Run for your life":
-                console.log(`${chalk.red.bold("you'er under siezed by " + opponent_1)}`);
+                console.log(`${chalk.red.bold("you'er under siezed by " + opponent.select)}`);
                 break;
         }
     }
